@@ -1,0 +1,15 @@
+2025-07-16 20:13:55.872775 - User: Hi, I知 feeling really stressed and overwhelmed lately.
+2025-07-16 20:13:55.872877 - Bot: Hi, I'm here to talk.
+
+2025-07-16 20:13:55.889734 - User: Hi, I知 feeling really stressed and overwhelmed lately.
+2025-07-16 20:13:55.889768 - Bot: Hi, I'm here to talk.
+
+2025-07-16 20:13:55.921024 - User: Hi, I知 feeling really stressed and overwhelmed lately.
+2025-07-16 20:13:55.921059 - Bot: Hi, I'm here to talk.
+
+2025-07-16 20:13:56.496495 - User: Hi, I知 feeling really stressed and overwhelmed lately.
+2025-07-16 20:13:56.496538 - Bot: Hi, I'm here to talk.
+
+2025-07-16 20:14:41.120182 - User: I知 under a lot of pressure at work and I can稚 seem to catch a break
+2025-07-16 20:14:41.120226 - Bot: I'm here to talk.
+
