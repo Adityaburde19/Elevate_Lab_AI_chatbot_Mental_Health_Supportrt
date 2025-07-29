@@ -1,0 +1,9 @@
+[2025-07-25 13:33:57] User: I'm feeling really stressed at work lately
+[2025-07-25 13:33:57] Bot: I'm feeling really stressed at work lately
+
+[2025-07-25 13:35:22] User: I feel like ending it all
+[2025-07-25 13:35:22] Bot: I feel like ending it all
+
+[2025-07-25 13:39:12] User: I feel like ending it all
+[2025-07-25 13:39:12] Bot: I feel like ending it all
+

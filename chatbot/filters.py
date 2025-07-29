@@ -1,11 +1,16 @@
-from nltk.corpus import stopwords
 import re
-import nltk
 
-nltk.download('stopwords')
+# Improved safety keywords
+keywords = [
+    "suicide", "kill myself", "end it all", "die", "worthless", "hopeless",
+    "cut", "jump off", "no way out", "can't go on", "self harm"
+]
 
-offensive_words = {'suicide', 'kill', 'murder', 'die', 'depressed'}
+def is_offensive(text: str) -> bool:
+    clean = re.sub(r'[^\w\s]', '', text.lower())
+    return any(k in clean for k in keywords)
 
-def is_offensive(text):
-    words = set(re.findall(r'\w+', text.lower()))
-    return not offensive_words.isdisjoint(words)
+def flag_keywords(text: str):
+    # Return matched harmful phrases for diagnostics
+    clean = re.sub(r'[^\w\s]', '', text.lower())
+    return [k for k in keywords if k in clean]
